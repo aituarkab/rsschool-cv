@@ -1,5 +1,5 @@
 # CV Kabdulin Aituar
-![Kabdulin A.S.](https://ltdfoto.ru/image/iQ1uF7)
+![Kabdulin A.S.](https://ltdfoto.ru/images/2023/03/06/KABDULIN-AITUAR-1.jpg)
 
 ## Junior Frontend Developer
 
