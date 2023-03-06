@@ -27,3 +27,18 @@ At the end of last year, I decided to become a developer, today I am taking *C# 
         }
 
 ## Courses
+1. [**RS School Javascript Course**](https://app.rs.school/)
+2. [**Udemy C#/.NET Course**](https://www.udemy.com/course/csharp-ru/)
+
+## Projects
+1. [**RS School CV Project**](https://github.com/aituarkab/rsschool-cv)
+
+## Education
+- Eurasian National University after L.N. Gumilyov, Astana c., 2018
+Bachelor of Engineering and Technology
+
+## Languages
+- English - B2
+- Russian - second language
+- Kazakh - native
+- Turkish - basic
