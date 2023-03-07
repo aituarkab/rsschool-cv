@@ -1,7 +1,11 @@
 * {
-    font: "Courier New";
+    font-family: 'Courier New', Courier, monospace;
     color: black;
+    background-color: transparent;
   }
 .code {
     background: #F6F8FA;
+}
+.name {
+  left: auto;
 }
