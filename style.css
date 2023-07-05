@@ -1,5 +1,70 @@
-* {
-    font-family: 'Courier New', Courier, monospace;
-    color: black;
-    background-color: transparent;
-  }
+*{
+  font-family: 'Bai Jamjuree', sans-serif;
+  color: white;
+}
+.name{
+  text-align: left;
+  transform: rotate(-90deg);
+  top: 200px;
+  position:absolute;
+  margin-top: 1%;
+}
+h1{
+  margin-bottom: -40px;
+}
+.ghimg{
+  width: 40px;
+  float: right;
+  margin-right: 20px;
+}
+.rsschoolimg{
+  width: 100px;
+  float: right;  
+  margin-right: 20px;
+}
+.copyright{
+  float: right;
+}
+.navlist{
+  list-style-type: none;
+  display: inline-flex;
+  color: white;
+}
+.contactslist{
+  list-style-type: none;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+li{
+  margin-right: 90px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.menu{
+  text-align: center;
+}
+.name{
+  color: white;
+}
+.top{
+  max-width: 100%;
+}
+.menu1{
+  color:white;
+}
+.photo{
+height: 431px;
+margin-left: 70%;
+}
+body{
+  display: flex;
+  justify-content: center;
+  background:linear-gradient(to bottom right,#07050f, #285b75);
+}
+.ebanyidiv{
+  max-width: 1440px;
+}
+footer{
+  background:linear-gradient(to bottom right,#07050f, #285b75);
+}
