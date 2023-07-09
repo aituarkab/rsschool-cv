@@ -24,6 +24,7 @@ h1{
 }
 .copyright{
   float: right;
+  color: black;
 }
 .navlist{
   list-style-type: none;
@@ -46,6 +47,7 @@ li{
 }
 .name{
   color: white;
+  margin-top:40px;
 }
 .top{
   max-width: 100%;
@@ -55,7 +57,9 @@ li{
 }
 .photo{
 height: 431px;
-margin-left: 70%;
+margin-left: 65%;
+box-shadow: inset;
+margin-top: -5%;
 }
 body{
   display: flex;
